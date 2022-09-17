@@ -1,2 +1,2 @@
-# my-jekyll-web
+# jekyll-web
 Testing Docker Jekyll website.
