@@ -21,10 +21,12 @@ baseurl: "/jekyll-web" # the subpath of your site, e.g. /blog
 url: "https://sonnyayran.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  sonnyayran
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
 theme: minima
+skin: dark
 plugins:
   - jekyll-feed
 
