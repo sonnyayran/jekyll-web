@@ -25,7 +25,7 @@ show_excerpts: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 # minima:
 #  skin: dark
 plugins:
